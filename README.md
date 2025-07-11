@@ -1,6 +1,10 @@
 <h1 align="center">Dylan Bruce</h1>
 <h3 align="center">Software Development + Machine Learning</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbruce32&show_icons=true&locale=en&layout=compact" alt="dbruce32" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbruce32&show_icons=true&locale=en" alt="dbruce32" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbruce32&label=Profile%20views&color=0e75b6&style=flat" alt="dbruce32" /> </p>
 
 - All of my projects and skills are visible on my portfolio: [https://dbruce32.github.io/Personal-Portfolio/](https://dbruce32.github.io/Personal-Portfolio/)
@@ -14,7 +18,3 @@
 <p align="left">
 <a href="https://www.leetcode.com/dbruce32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dbruce32" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbruce32&show_icons=true&locale=en&layout=compact" alt="dbruce32" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbruce32&show_icons=true&locale=en" alt="dbruce32" /></p>
