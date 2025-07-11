@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Dylan Bruce 👋</h1>
-<h3 align="center">Passionate about Software Development & Machine Learning</h3>
+<h1 align="center">Dylan Bruce</h1>
+<h3 align="center">Software Development • Machine Learning • CS + Mathematics @ Georgia Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4FFAF5&center=true&vCenter=true&width=500&lines=CS+@+Georgia+Tech+%F0%9F%8F%9B;Building+ML-powered+apps+%F0%9F%94%A1;Loves+clean+code+%E2%9C%A8;Open+Source+Contributor+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Development;Machine+Learning;Georgia+Tech;CS+%2B+Mathematics+@+GT" alt="Typing animation with areas of focus" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbruce32&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="450" alt="Top Languages" />
