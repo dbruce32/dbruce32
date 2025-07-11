@@ -1,8 +1,8 @@
 <h1 align="center">Dylan Bruce</h1>
-<h3 align="center">Software Development • Machine Learning • CS + Mathematics @ Georgia Tech</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Typing animation with areas of focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Development;Machine+Learning;Georgia+Tech;CS+%2B+Mathematics+@+GT" alt="Typing animation with areas of focus" />
 </p>
 
 <p align="center">
