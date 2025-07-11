@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=dbruce32&label=Profile%20views&color=0e75b6&style=flat" alt="dbruce32" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dbruce32&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbruce32&layout=compact&langs_count=8&theme=default" width="450" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dbruce32&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dbruce32&show_icons=true&locale=en" width="500" alt="GitHub Stats" />
+</div>
 
 ---
 
